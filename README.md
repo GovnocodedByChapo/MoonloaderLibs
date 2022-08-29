@@ -48,7 +48,7 @@
 
 ### Strings ###
 >Источник: [click](https://www.blast.hk/threads/19292/)  
->[Скачать](https://github.com/GovnocodedByChapo/MoonloaderLibs/raw/main/strings.lua) файл strings.lua и переместить содержимое архива в папку moonloader\lib  
+>[Скачать](https://github.com/GovnocodedByChapo/MoonloaderLibs/raw/main/strings.lua) файл strings.lua и переместить в папку moonloader\lib  
 
 ### ImGui ###
 >Источник: [click](https://www.blast.hk/threads/19292/)  
