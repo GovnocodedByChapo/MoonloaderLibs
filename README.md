@@ -18,6 +18,21 @@
 >* Lrexlib-PCRE - работа с регулярными выражениями самого распространённого и наиболее полного стандарта регулярных выражений PCRE
 >* Lanes - многопоточность, асинхронность, параллельное программирование  
 
+### Effil ###
+>Источник: [click](https://www.blast.hk/threads/20532/post-256096)  
+>Скачать файл lib-effil.7z и переместить содержимое архива в папку moonloader\lib  
+
+### Requests ###
+>Источник: [click](https://www.blast.hk/threads/16031/post-182937)  
+>Скачать файл lua-requests.zip и переместить содержимое архива в папку moonloader\lib  
+
+### LFS (Lua File System) ###
+>Источник: [click](https://www.blast.hk/threads/16031/post-815938)  
+>Скачать файл lfs.dll и переместить его в папку moonloader\lib  
+
+### BASS ###
+>Источник: [click](https://www.blast.hk/threads/15796/)  
+>Скачать файл bassModule.zip и переместить содержимое архива в папку moonloader\lib  
 
 ### SAMP.Lua ###
 >Источник: [click](https://www.blast.hk/threads/14624/)  
