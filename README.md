@@ -1,5 +1,5 @@
 # MoonloaderLibs
-
+В данном репозитории вы можете скачать (или перейти на официальную страницу) основные библиотеки для [moonloader](https://www.blast.hk/threads/13305/)  
 ### Основные библиотеки ###
 >Источник: [click](https://www.blast.hk/threads/16031/)  
 >Скачать файл lua51-libs.rar и переместить содержимое архива в папку moonloader\lib  
